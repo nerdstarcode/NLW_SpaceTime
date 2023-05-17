@@ -1,0 +1,9 @@
+[submodule "NLW_SpaceTime_mobile"]
+	path = NLW_SpaceTime_mobile
+	url = https://github.com/nerdstarcode/NLW_SpaceTime_mobile
+[submodule "NLW_SpaceTime_server"]
+	path = NLW_SpaceTime_server
+	url = https://github.com/nerdstarcode/NLW_SpaceTime_server
+[submodule "NLW_SpaceTime_web"]
+	path = NLW_SpaceTime_web
+	url = https://github.com/nerdstarcode/NLW_SpaceTime_web
